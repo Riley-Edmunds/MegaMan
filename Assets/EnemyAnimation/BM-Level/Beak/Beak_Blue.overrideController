@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Beak_Blue
+  m_Controller: {fileID: 9100000, guid: 421c4eeb013cbd44294d89915634ade7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 88284ddc338980744adf4d5b3623e0e1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20e6a415d8f6c5c49b5c0c417e802cf4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 777d8d1078c247c45bf07d49cd3330aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f403c30032f3d442b89dae2adde9a05, type: 2}
